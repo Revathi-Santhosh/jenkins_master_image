@@ -1,0 +1,6 @@
+credentials:2.3.7
+github:1.29.5
+ansible:1.0
+pipeline-model-definition:1.6.0
+kubernetes:1.25.4
+configuration-as-code:1.40
